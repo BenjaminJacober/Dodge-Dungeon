@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>693</x>
+      <y>18</y>
+      <w>162</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>Erklärung der Geschichte.</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>765</x>
+      <y>81</y>
+      <w>27</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>711</x>
+      <y>162</y>
+      <w>126</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>Title-Screen</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>819</x>
+      <y>180</y>
+      <w>180</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>180.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>630</x>
+      <y>180</y>
+      <w>117</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;110.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>531</x>
+      <y>171</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Exit</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>765</x>
+      <y>198</y>
+      <w>27</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>720</x>
+      <y>270</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Start</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>981</x>
+      <y>171</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Settings</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>855</x>
+      <y>36</y>
+      <w>81</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>cutscenes
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1071</x>
+      <y>180</y>
+      <w>81</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>70.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1026</x>
+      <y>189</y>
+      <w>27</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>936</x>
+      <y>180</y>
+      <w>72</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;60.0;60.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>1080</x>
+      <y>234</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Volume</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>891</x>
+      <y>234</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Back</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>981</x>
+      <y>261</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Difficulty</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>810</x>
+      <y>180</y>
+      <w>189</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>190.0;10.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>720</x>
+      <y>342</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Play</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>765</x>
+      <y>297</y>
+      <w>27</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>450</x>
+      <y>504</y>
+      <w>162</w>
+      <h>234</h>
+    </coordinates>
+    <panel_attributes>bg=white
+
+-Maingame idea-
+
+Immer derselbe Raum in
+dem man vom Anfang zum
+Schluss kommen muss.
+
+Im Raum gibt es Fallen, die
+einen an den Start zurück
+setzen.
+
+Fallen:
+Laserfalle
+Einfrierfalle
+Mehr Ideen....</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>900</x>
+      <y>522</y>
+      <w>90</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Character:
+xPos
+yPos
+direction</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>774</x>
+      <y>522</y>
+      <w>90</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Trap:
+Name
+xPos
+yPos
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>765</x>
+      <y>495</y>
+      <w>108</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>Traps
+--
+bg=orange
+fg=black
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>891</x>
+      <y>495</y>
+      <w>108</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>Player
+--
+bg=pink
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>639</x>
+      <y>621</y>
+      <w>126</w>
+      <h>198</h>
+    </coordinates>
+    <panel_attributes>CollisionDetection
+--
+bg=red
+fg=black
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>639</x>
+      <y>495</y>
+      <w>108</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>Room
+--
+bg=blue
+fg=black
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>648</x>
+      <y>522</y>
+      <w>90</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Room:
+size</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>648</x>
+      <y>648</y>
+      <w>108</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>Collision:
+maxX
+maxY
+xPosPlayer
+yPosPlayer
+xPosTraps
+yPosTraps
+--
+collisiondetection
+output (to use
+collisiondetection)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>783</x>
+      <y>621</y>
+      <w>126</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>Items?
+--
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>711</x>
+      <y>567</y>
+      <w>27</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>fg=red
+✓</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>1692</x>
+      <y>504</y>
+      <w>126</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Package 1
+--
+-Content 1
++Content 2
+bg=gray
+fg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>963</x>
+      <y>567</y>
+      <w>27</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>fg=red
+✓</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
